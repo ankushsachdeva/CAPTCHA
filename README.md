@@ -1,7 +1,7 @@
 CAPTCHA
 =======
 
-CAPTCHA-decoder made for IITK webmail (squirell mail)
+CAPTCHA-decoder made for IITK webmail (squirrel mail)
 
 but works on any CAPTCHA with
 
