@@ -7,6 +7,7 @@ import math
 def identify(max):			#to match the current character info with the database
     min=999999
     fread=open("train.txt","r")
+    store='-'
     while(1):
         sum=0
         str=fread.readline().split()
